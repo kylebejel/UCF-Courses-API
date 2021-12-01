@@ -1,0 +1,9 @@
+# SCHEMA
+# name
+# number
+# units
+# semester
+# description
+# prerequisite_descriptions
+# prerequisite_codes_list
+# is_restricted

@@ -1,0 +1,399 @@
+COP2500C - Concepts in Computer Science
+3
+1
+None
+Fundamental concepts in program design, data structures, algorithms, analysis and a survey of topics in CS.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP3223C - Introduction to Programming with C
+3
+1
+COP 2500C with a "C" (2.0) or better, or Appropriate score on the UCF CS Placement Exam, or Consent of Instructor.
+Programming in C including arrays, pointer manipulation and use of standard C math and IO libraries.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP3223K - Honors Introduction to Programming with C
+3
+0
+Consent of Honors and one of the following: COP 2500C with a "C" (2.0) or better, or Appropriate score on the UCF CS Placement Exam, or Consent of Instructor.
+Programming with C including arrays, pointer manipulation and use of standard C math and IO libraries.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP3330 - Object Oriented Programming
+3
+0
+COP 3223C or EGN 3211 with a grade of "C" (2.0) or better. 
+Object oriented programming concepts (classes, objects, methods, encapsulating, inheritance, interfaces) and the expression of these concepts in the programming languages such as JAVA.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP3402 - Systems Software
+3
+0
+CDA 3103C and COP 3502C each with a grade of "C" (2.0) or better. 
+Design and development of assemblers, linkers, loaders, and compilers. Study memory hierarchy, program performance, and system level I/O.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP3502C - Computer Science I
+3
+1
+(COP 3223C or EGN 3211) and MAC 1105C all with a grade of "C" (2.0) or better. 
+Problem solving techniques, order analysis and notation, abstract data types, and recursion.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP3502K - Honors Computer Science I
+3
+0
+Permission of Honors and (COP 3223C or EGN 3211) and MAC 1105C all with a grade fo "C" (2.0) or better. 
+Problem solving techniques, order analysis and notation, abstract data types, and recursion.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP3503C - Computer Science II
+3
+1
+COP 3502C and COP 3330 and (MAD 2104 or COT 3100C) all with a grade of "C" (2.0) or better. 
+Algorithm design and analysis for tree, list, set, and graph data models; algorithmic strategies and applications, and algorithmic complexity analysis; sorting and searching; practical applications.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP3503K - Honors Computer Science II
+3
+0
+Permission of Honors and (COP 3502H or COP 3502C) and COP 3330 and (MAD 2104 or COT 3100C) each with a grade of "C" (2.0) or better. 
+Algorithm design and analysis for tree, list, set, and graph data models; algorithmic strategies and applications, and algorithmic complexity analysis; sorting and searching; practical applications. With honors content.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP4020 - Programming Languages I
+3
+0
+COP 3503C with a grade of "C" or better and COT 3960. 
+Paradigms and fundamental concepts of programming languages are presented, including: scope, binding, abstraction, encapsulation, typing etc. Design paradigms object-oriented, functional and logic programming are presented.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP4283 - Data Science Programming
+3
+0
+COP 3223C
+Programming for data processing and analytics, including languages and platforms used in science such as SAS, R, Julia, and Python. Intensive coding projects.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP4331C - Processes for Object-Oriented Software Development
+3
+1
+COP 3503C with a grade of "C" (2.0) or better and COT 3960 (CS majors). 
+Concepts, principles, processes and methods for developing large software systems featuring a team project using object-oriented design in UML and implementation in C++.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP4516C - Problem Solving Techniques and Team Dynamics
+3
+3
+COP 3503C with a grade of "C" (2.0) or better. 
+Design and implement solutions to problems requiring the applications of the different algorithms. Team project format.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP4520 - Concepts of Parallel and Distributed Processing
+3
+0
+COP 3402 and COP 3503C each with a grade of "C" (2.0) or better and COT 3960. 
+Parallel and distributed paradigms, architectures and algorithms, and the analytical tools, environments and languages needed to support these paradigms.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP4600 - Operating Systems
+3
+0
+COP 3503C and COP 3402 (CS majors) each with a grade of "C" (2.0) or better and COT 3960 (CS majors). 
+Function and organization of operating systems, process management, virtual memory, I/O management, and file management.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP4710 - Database Systems
+3
+0
+COP 3503C with a grade of "C" (2.0) or better. 
+Storage and access Structures, database models and languages, related database design, and implementation techniques for database management systems.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP4910 - Frontiers in Information Technology
+3
+0
+CNT 4603 with a grade of "C" (2.0) or better
+Research into leading edge information technologies that have a high likelihood of affecting the work place in the two to five year time frame.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP4934 - Senior Design I
+3
+0
+COP 3402 and COP 3503C each with a grade of "C" (2.0) or better and consent of Department of EECS
+Students work in teams to demonstrate their knowledge of computer science and apply it to realistic and meaningful problems.
+College of Engineering and Computer Science
+Department of Computer Science
+
+COP4935 - Senior Design II
+3
+0
+COP 4934 with a grade of "C" (2.0) or better. 
+Students work in teams to demonstrate their knowledge of computer science and apply it to realistic and meaningful problems.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CNT3004 - Computer Network Concepts
+3
+0
+PHY 2053C    with a grade of "C" (2.0) or better and, coreq: CIS 3990.
+Network media, protocol, current and evolving standards for local, metropolitan, wide area and wireless networks.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CNT4403 - Network Security and Privacy
+3
+0
+(CNT 3004 or EEL 4781 or CNT 4704) and (CIS 3360 or CIS 3362) all with a grade of "C" (2.0) or better or C.I. 
+Fundamentals of network security, protocols, secure applications, network intrusion detection, security policy, firewalls, and privacy issues.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CNT4425C - Cloud Computing Management
+3
+1
+CGS 3763 or COP 4600 with a grade of "C" (2.0) or better. Administration of cloud computing. 
+Topics include virtualization, container, resource management, programming models, application models, and system administration. Real-world Cloud Computing systems and tools, such as OpenStack, Amazon/Microsoft/Google public cloud systems, as well as Hadoop and Spark.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CNT4603 - System Administration and Maintenance
+3
+0
+CGS 3763 or COP 3503C and Computer Science major, with a grade of "C" (2.0) or better.
+An examination of operating systems and applications installation, configuration, and maintenance, including client-server services, content management and deployment, server administration and management, and user/group management.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CNT4703C - Design and Implementation of Computer Communication Networks
+3
+2
+(CNT 3004, COP 3502C and either MAD 2104 or COT 3100C) or (COP 3503C and Computer Science major) all with a grade of "C" (2.0) or better.
+Data communication networking technologies (TCP/IP, Ethernet, Gigabit Ethernet, ATM, Frame Relay), products (routers, switches, adapters, cabling). Base design and detailed configuration including hands-on exercises.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CNT4704 - Analysis of Computer Communication Networks
+3
+0
+(COT 3100C or MAD 2104) and STA 2023 each with grades of "C" (2.0) or better. 
+Network design using layering. Introduces cabling, topology, architecture, hardware and software. Includes performance and control issues such as congestion control, error control, contention resolution.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CNT4714 - Enterprise Computing
+3
+0
+(CGS 3269, MAD 2104, COP 3330 and COP 3502C) or (COP 3503C and Computer Science or Computer Engineering major) all with a grade of "C" (2.0) or better.
+Client-server architecture. Server-side scripting: Servlets, JSP, PHP. JDBC and MySQL database; connectivity. Multi-threaded Java applications. J2EE development. SSL., Event-driven programming.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CNT4932 - Wireless Communication and Networking
+1 - 99
+0
+CNT 4703 or CNT 4704 or C.I.
+Wireless transmission basics, radio propagation, antennas, digital modulation, spread spectrum techniques, their applications. Design and testing Wi-Fi, WiMAX and microwave systems. Introduction to cellular technology.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS3003 - Fundamentals of Information Technology
+3
+0
+CGS 2545C and COP 3223C each with a grade of "C" (2.0) or better. 
+Pervasive themes in IT. Organizational issues. History of IT. IT and its related and informing disciplines. Application domains. Applications of math and statistics to IT.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS3360 - Security in Computing
+3
+0
+COP 3223C or EGN 3211 with a grade of "C" (2.0) or better. 
+Security theory. Legal and human factors, Malware, Intrusion patterns and tools, Windows, Unix, TCP/IP, and applications vulnerabilities. Detection. Policies and enforcement. Protection and assurance.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS3362 - Cryptography and Information Security
+3
+0
+COP 3223C or EGN 3211, and MAC 1114C each with a grade of "C" (2.0) or better.
+Encryption algorithms and ciphers. Public and private keys. Key infrastructures. Authentication, confidentiality, integrity, and nonrepudiation. Digital signatures and certificates. Hash and digest algorithms. Standards.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS3921 - Careers in IT
+1
+0
+COP 3223C and IT major.
+An overview of the IT field, job opportunities and careers in information technology, detailed information about some jobs as well as a broad survey.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS3990 - IT Career and Academic Advising I
+0
+0
+PHY 2053C    and IT major.
+Mandatory meeting with students and their faculty advisor for career/academic advising.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS4004 - Web-Based Information Technology
+3
+0
+(CNT 3004 and COP 3330) or (COP 3503C and Computer Science major) each with grades of "C" (2.0) or better. 
+Digital libraries. Media formats. Compression. Streaming Media. Mobile internet and WML. Emerging technologies. Capacity planning for web services.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS4203C - Digital Forensics
+3
+2
+(COP 4600 or CGS 3763) and (CIS 3360 or CIS 3362) or C.I.
+Operating system forensics, digital media forensics, networking forensics, various digital devices forensics. User activity profiling and digital storage recovery.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS4340 - Data Management Technology
+3
+0
+COP 3502C
+Storage and access structures, database models and languages, database design, techniques for parallel database systems, emerging data management technology.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS4361 - Secure Operating Systems and Administration
+3
+0
+CIS 3360 with a grade of "C" (2.0) or better; 
+Understanding of secure operating systems requirements, design principles and theories, protection methods, access control, authentication, vulnerability, analysis and case studies.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS4524 - Managing IT Integration
+3
+0
+CIS 3003 or COP 3503C and Computer Science major, with a grade of "C" (2.0) or better.
+Requirements, acquisition and sourcing. Integration. Project management. Testing and QA. Organizational context. Architecture.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS4615 - Secure Software Development and Assurance
+3
+0
+(COP 4600 or CGS 3763) and (CIS 3360 or CIS 3362) or C.I.
+Threat modeling and risk analysis, development of secure software, software assurance techniques, analyzing and auditing software.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS4940C - Topics in Cybersecurity
+3
+3
+CIS 3360 or C.I.
+A directed and supervised investigation of selected problems, issues, and trends in cybersecurity, with emphasis on laboratory simulations of system penetration methods and network defense strategies.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CIS4991 - IT Career and Academic Advising II
+0
+0
+CIS 3990 and department consent.
+Mandatory meeting with students and their faculty advisor for career/academic advising.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CAP3104 - Foundations of HCI
+3
+0
+CGS 2545C each with a grade of "C" (2.0) or better. 
+Students will learn the foundational concepts of Human-Computer Interaction (HCI), including human-centered design principles, interaction modalities, design guidelines and heuristics, and interface evaluation techniques.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CAP4053 - AI for Game Programming
+3
+0
+COP 3502C with a grade of "C" (2.0) or better or C.I. 
+Surveys cutting-edge AI techniques for video games and board games and contrasts them with more traditional approaches.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CAP4102 - Web and User Experience (UX)
+3
+0
+COP 3502C with a grade of "C" (2.0) or better. 
+To meet a real world customer's needs, student teams will learn and apply user-centered principles to elicit requirements, prototype, and build a complete web-based solution.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CAP4145 - Introduction to Malware Analysis
+3
+0
+CIS 3360, (CGS 3269 or CDA 3103C), (CGS 3763 or COP 4600), or C.I.
+Introduction to using reverse engineering techniques to find and analyze the behavior of programs in binary form; assembly language, reverse engineering tools, and virtual machines.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CAP4314 - Social Network Analysis
+3
+0
+CNT 3004 and COP 3330.
+Introduce the concept of social network. Network structure and measures. Network visualization. Tie strength and propagation in networks. Methods for social network analysis(SNA). Public sector applications of SNA. Business applications of SNA.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CAP4453 - Robot Vision
+3
+0
+COP 3503C and MAC 2312 each with a grade of "C" (2.0) or better or C.I. 
+Perspective and orthographic projections; the processing of edges, regions, motion, shading, texture, object detection, recognition, and machine learning.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CAP4611 - Algorithms for Machine Learning
+3
+0
+COP 3502C and STA 2023 each with a grade of "C" (2.0) or better  
+An overview of the most commonly used algorithms for supervised, unsupervised, and reinforcement learning. Introduction to experimental design, evaluation metrics, and applications of machine learning.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CAP4630 - Artificial Intelligence
+3
+0
+COP 3503C with a grade of "C" (2.0) or better and COT 3960. 
+Current methods in Al: knowledge-based systems, representation, inference, planning, natural language. Programming in Lisp or Prolog required.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CAP4720 - Computer Graphics
+3
+0
+COP 3503C and MAC 1114C each with a grade of "C" (2.0) or better, and COT 3960.
+Math for computer graphics, visibility and shading, graphics and data structure, curves and surfaces, commodity graphics hardware, and graphics API.
+College of Engineering and Computer Science
+Department of Computer Science
+
+CAP4932 - Introduction to Bioinformatics Algorithms
+3
+0
+None
+Introduce algorithmic ideas for addressing real-world biological questions, including brute-force search, greedy algorithms, dynamic programming, randomized algorithms, graph algorithms, clustering algorithms and hidden Markov models.
+College of Engineering and Computer Science
+Department of Computer Science

@@ -1,0 +1,314 @@
+CAP5415
+Computer Vision
+3
+0
+COP 3503C, MAC 2312 and COT 3960.
+Image formation, binary vision, region growing and edge detection, shape representation, dynamic scene analysis, texture, stereo and range images, and knowledge representation.
+CS & IT Elective
+Fall
+
+CAP5510
+Bioinformatics
+3
+0
+Background in programing language or molecular biology.
+This course introduces problems, concepts, algorithms, and applications in Bioinformatics. It covers essential topics such as sequence alignment and prediction of gene and protein structure. 
+CS & IT Elective
+Occasional
+
+CAP5512
+Evolutionary Computation
+3
+0
+CAP 4630 or COP 3503C or C.I.
+This course covers the field of evolutionary computation, focusing on the theory and application of genetic algorithms.
+CS & IT Elective
+Spring
+
+CAP5610
+Machine Learning
+3
+0
+CAP 4630 or C.I.
+Origin/evaluation of machine intelligence; machine learning concepts and their applications in problem solving, planning and “expert systems” symbolic role of human and computers.
+CS & IT Elective
+Occasional
+
+CAP5636
+Advanced Artificial Intelligence
+3
+0
+CAP 4630
+Al theory of knowledge representation, “expert systems”, memory organization, problem solving, learning, planning, vision, and natural language.
+CS & IT Elective
+Fall
+
+CAP5725
+Computer Graphics I
+3
+0
+None
+Architecture of graphics processors; display hardware; principles of programming and display software; problems and applications of graphic systems.
+CS & IT Elective
+Spring
+
+CDA3103C
+Computer Logic and Organization
+3
+1
+COP 3223C with a grade of “C” (2.0) or better
+Logic design, computer arithmetic, Instruction Set Architecture (MIPS, SPIM simulator), performance, data path, control unit, memory hierarchy, I/O interface.
+CS Required & IT Elective
+Fall,Spring
+
+CDA5106
+Advanced Computer Architecture
+3
+0
+EEL 4768C
+Modern processor design, instruction-level parallelism, thread-level parallelism, data-level parallelism, memory hierarchy, and I/O.
+CS & IT Elective
+Fall,Spring
+
+CDA5110
+Parallel Architecture and Algorithms
+3
+0
+COT 4210, CDA 5106.
+General-purpose vs. special-purpose parallel computers; arrays, message-passing; shared-memory; taxonomy; parallelization techniques; communication synchronization and granularity; parallel data structures; automatic program restructuring.
+CS & IT Elective
+Occasional
+
+CEN5016
+Software Engineering
+3
+0
+COP 4331C
+Application of formal software processes, engineering methods, and documentation standards to the development of large scale software systems. A team project is required. 
+CS & IT Elective
+Spring
+
+CGS2545C
+Database Concepts
+2
+1
+C or high level programming course (C, Java, C#, C++) with a grade of “C” (2.0) or better.
+Entity-relation model, relational database managements systems, normal forms, performance or databases, report generation.
+IT Required
+Fall,Spring
+
+CGS3175
+CGS 3175 ECS-CS 3(3,0) Internet Applications
+3
+0
+COP 2500C or high level programming course (C, Java, C#, C++) with a grade of “C” (2.0) or better.
+HTML coding, using images, sound and animation, advanced text formatting, forms and CGS scripts, introduction to JavaScript.
+IT Elective
+Fall,Spring
+
+CGS3269
+Computer Architecture Concepts
+3
+0
+COP 2500C or high level programming course (C, Java, C#, C++) with a grade of “C” (2.0) or better.
+CPU organization, current computer architectures, network file servers.
+IT Required
+Fall,Spring
+
+CGS3763
+Operating System Concepts
+3
+0
+COP 2500C or high level programming course (C, Java, C#, C++) with a grade of “C” (2.0) or better.
+System calls, concept of processes, CPU scheduling, security issues, client server paradigms, and computer supported workgroups.
+IT Required
+Occasional
+
+CNT5008
+Computer Communication Networks Architecture
+3
+0
+EEL 4768C
+Computer networks, layers, protocols and interfaces, local area networks networking.
+CS & IT Elective
+Fall
+
+CNT5805
+Network Science
+3
+0
+Undergraduate degree in CS, EE, or CpE.
+The emerging science of complex networks and their applications. Focus will be on algorithms, mathematical theories, and computational methods that analyze complex networks and predict their behavior.
+CS & IT Elective
+EvenFall
+
+COP5021
+Program Analysis
+3
+0
+COP 4020 and COT 4210 or C.I.
+Static analysis of programs including theoretical and practical limitations, data flow analysis, abstract interpretation, and type and effect systems. Tools to automate program analysis.
+CS & IT Elective
+EvenSpring
+
+COP5537
+Network Optimization
+3
+0
+PR: Graduate standing or C.I.
+Techniques for modeling complex, interconnected systems as networks; optimization with graph theory; algorithms, data structures, and computational complexity; statistical methods for studying large, evolving networks. 
+CS & IT Elective
+Fall
+
+COP5611
+Operating Systems Design Principles
+3
+0
+COP 4600
+Structure and functions of operating systems, process communication techniques, high-level concurrent programming, virtual memory  systems, elementary queuing theory, security, distributed systems, case studies. 
+CS & IT Elective
+Spring
+
+COP5621
+Compiler Construction
+3
+0
+COP4020 and COT 4210.
+Techniques in the design and implementation of compilers. Optimization, code generation, error recovery, attributed grammars. A project is required.
+CS & IT Elective
+OddFall
+
+COP5711
+Parallel and Distributed Database Systems
+3
+0
+COP 4710
+Storage manager, implementation techniques for parallel DBMSs, distributed DBMS architectures, distributed database design, query processing, multidatabase systems. 
+CS & IT Elective
+Occasional
+
+COT3100C
+Introduction to Discrete Structures
+3
+1
+MAC 1105C and MAC 1114C each with a grade of “C” (2.0) or better.
+Logic, sets, functions, relations, combinatorics, graphics, Boolean algebras, finite-state machines, Turing machines, unsolvability, computational complexity.
+CS Required
+Fall,Spring
+
+COT3960
+Passed CS Foundation Exam
+1
+0
+COP 3502C with a grade of “C” (2.0) or better. 
+Foundation examination for computer science majors. Required before taking advanced core courses in Computer Science and upper-division 4000 and 5000 level CS electives. Graded S/U. 
+CS Required
+Fall,Spring
+
+COT4210
+Discrete Structures II
+3
+0
+COP 3503C with a grade of “C” (2.0) or better and COT 3960.
+Computation Theory. A study of the properties of grammars and automata as formal specifications for algorithms and families of languages. 
+CS Required & IT Elective
+Fall,Spring
+
+COT4400
+Tools for Algorithm Analysis
+3
+0
+COT 3960 and COP 3503C.
+Tools from discrete and continuous mathematics for analyzing complexity of algorithms. Order notation use and manipulation. 
+CS & IT Elective
+Occasional
+
+COT4500
+Numerical Calculus
+3
+0
+MAC 2312 and COP 3223C each with a grade of “C” (2.0) or better.
+Numerical methods for finding roots of nonlinear equations, solutions of systems of linear equations, and ordinary differential equations. 
+CS & IT Elective
+Occasional
+
+COT4810
+Topics in Computer Science
+3
+0
+COP 3402 and COP 3503C each with a grade of “C” (2.0) or better and COT 3960.
+A range of topics from the field of Computer science; application of oral and written communication skills; social, ethical and moral issues of computing. 
+CS Required
+Fall,Spring
+
+COT5405
+Design and Analysis of Algorithms
+3
+0
+COT 4210.
+Classification of algorithms, e.g., recursive, divide-and-conquer, greedy, etc. Data Structures and algorithm design and performance. Time and space complexity analysis. 
+CS & IT Elective
+Fall,Spring
+
+EEE4346C
+Hardware Security and Trusted Circuit Design
+2
+3
+EEL 3801C with a grade of “C” (2.0) or better.
+Design, analysis and synthesis of sequential logic circuits and systems. Data path and controller design  using a hardware descriptive language. Case studies on hardware security.
+CS Elective
+Spring
+
+EEL4660
+Robotic Systems
+3
+0
+EGN 4060C or EEL 4742C or COP 3503C.
+Team based development of a robotic system incorporating concepts such as sensing, computer vision,  machine learning, localization, mapping, manipulation and  locomotion.
+CS Elective
+Spring
+
+EEL4768
+Computer Architecture
+3
+0
+EEL 3801C or CDA3103C with a grade of “C” (2.0) or better.
+Computer systems performance and evaluation, processor datapath and control, microprogrammed architectures, instruction and arithmetic pipelines, cache and virtual memory, and RISC vs. CISC.
+CS Elective
+Fall,Spring
+
+EEL4781
+Computer Communication Networks
+3
+0
+EEL 3801C with a grade of “C” (2.0) or better and STA 3032.
+Network models. Media access protocols. Data link control. Routing and flow control. Internetworking. Current architectures and protocols: OSI, ethernet, token, ring,  FDDI, HSLC, X.25, etc.
+CS Elective
+Fall,Spring
+
+EEL5780
+Wireless Networks
+3
+0
+EEL 4781 or C.I.
+The wireless networking topics include: cellular networks, multiple access protocols, channel assignment and resource allocation, mobility and location management, handoffs, routing, authentication, call admission control  and QoS provisioning, network layer issues, wireless data networking (WAP, GSM, GPRS, CDMA, WCDMA.).
+CS Elective
+EvenSpring
+
+EEL5820
+Image Processing
+3
+0
+MAP 2302, EEL 4750 or C.I.
+Two-dimensional signal processing techniques; pictorial image representation; spatial filtering; image enhancement and encoding; segmentation and feature extraction; introduction to image understanding  techniques.
+CS Elective
+OddSpring
+
+EGN4060C
+Introduction to Robotics
+2
+3
+COP 3223C or EGN 3211; and EEL 3657or EEL 4742C or COP 3503C or EGN 3321 or EML 3217.
+Theory and application of robotics topics including; architecture, path planning, sensing and manipulation.
+CS Elective
+Spring

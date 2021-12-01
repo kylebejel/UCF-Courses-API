@@ -1,0 +1,308 @@
+3 
+CAP 4053
+Spring
+
+5
+CAP 4102
+Even Fall
+
+3
+CAP 4145
+Spring
+
+3 
+CAP 4314
+Fall
+
+3 
+CAP 4453
+Fall,Spring 
+ 
+3
+CAP 4611
+Fall,Spring
+ 
+3
+CAP 4630
+Fall
+ 
+3
+CAP 4720
+Occasional
+
+3
+CAP 5415
+Fall
+ 
+3
+CAP 5510
+Occasional
+ 
+3
+CAP 5512
+Spring
+ 
+3
+CAP 5610
+Occasional
+ 
+3
+CAP 5636
+Fall  
+ 
+3
+CAP 5725
+Spring 
+ 
+3
+CDA 3103C
+Fall,Spring
+ 
+3
+CDA 5106
+Fall,Spring
+ 
+3
+CDA 5110
+Occasional
+ 
+3
+CEN 5016
+Spring
+ 
+2
+CGS 2545C
+Fall,Spring  
+ 
+4
+CGS 3175
+Fall,Spring 
+ 
+2
+CGS 3269
+Fall,Spring
+ 
+2
+CGS 3763
+Occasional  
+ 
+2 
+CIS 3003
+Fall 
+ 
+6
+CIS 3360
+Occasional 
+ 
+3
+CIS 3362
+Occasional
+
+2
+CIS 3921
+Fall,Spring
+ 
+2
+CIS 3990
+Fall,Spring 
+ 
+5
+CIS 4004
+Fall,Spring 
+ 
+3
+CIS 4203C
+Fall
+ 
+3
+CIS 4361
+Occasional 
+ 
+5
+CIS 4524
+Spring  
+ 
+3
+CIS 4615
+Occasional  
+ 
+3
+CIS 4940C
+Spring
+ 
+2
+CIS 4991
+Fall,Spring  
+
+2
+CNT 3004  
+Fall,Spring 
+ 
+3 
+CNT 4403
+Occasional 
+ 
+3
+CNT 4425C
+Spring
+ 
+5
+CNT 4603
+Fall,Spring
+ 
+5
+CNT 4703C
+Fall,Spring 
+ 
+3
+CNT 4704
+Occasional 
+ 
+5
+CNT 4714
+Fall,Spring  
+
+3
+CNT 5008
+Fall
+
+3
+CNT 5805
+Even Fall
+ 
+3
+COP 3223C
+Fall,Spring  
+ 
+3
+COP 3330
+Fall,Spring
+ 
+7
+COP 3402
+Fall,Spring
+ 
+6
+COP 3502C
+Fall,Spring
+ 
+7
+COP 3503C
+Fall,Spring
+ 
+3
+COP 4020
+Fall, Spring
+
+8
+COP4283
+Spring
+
+7
+COP 4331C
+Fall,Spring
+ 
+3
+COP 4516C
+Occasional
+ 
+3
+COP 4520
+Occasional
+ 
+3
+COP 4600
+Fall,Spring
+ 
+3
+COP 4710
+Fall,Spring
+ 
+2
+COP 4910
+Fall,Spring
+ 
+1 
+COP 4934
+Fall,Spring
+
+1
+COP 4935
+Fall,Spring
+ 
+3
+COP 5021
+Even Spring 
+ 
+3
+COP 5537
+Fall
+ 
+3
+COP 5611
+Spring
+ 
+3
+COP 5621
+Odd Fall
+
+3
+COP 5711
+Occasional
+ 
+1
+COT 3100C
+Fall,Spring
+ 
+1
+COT 3960
+Fall,Spring
+ 
+7
+COT 4210
+Fall,Spring
+ 
+3
+COT 4400
+Occasional
+ 
+3
+COT 4500
+Occasional
+ 
+1
+COT 4810
+Fall,Spring
+ 
+3
+COT 5405
+Fall,Spring
+ 
+9
+EEE 4346C
+Spring
+ 
+9
+EEL 4660
+Spring   
+ 
+9
+EEL 4768
+Fall,Spring 
+
+9
+EEL 4781
+Fall,Spring
+ 
+9
+EEL 5780
+Even Spring 
+ 
+9
+EEL 5820
+Odd Spring
+ 
+9
+EGN 4060C
+Spring
+

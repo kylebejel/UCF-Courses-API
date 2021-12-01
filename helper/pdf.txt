@@ -1,0 +1,506 @@
+3 
+CAP 4053 ECS-CS 3(3,0) AI for Game Programming:  
+PR: COP 3502C with a grade of “C” (2.0) or better or C.I. Surveys cutting-edge AI  
+techniques for video games and board games and contrasts them with more 
+traditional approaches. Spring.
+
+5
+CAP 4102 ECS-CS 3(3,0) IT Design and User Experience: PR: COP3502C. To 
+meet a real world customer’s needs, student teams will learn and apply user-
+centered principles to elicit requirements, prototype, and build a complete web-
+based solution. Even Fall.
+
+3
+CAP 4145 ECS-CS 3(3,0) Introduction to Malware Analysis: PR: CIS 
+3360, (CGS 3269 or CDA 3103C), (CGS 3763 or COP 4600), or C.I. Introduction to 
+using reverse engineering techniques to find and analyze the behavior of programs 
+in binary form; assembly language, reverse engineering tools, and virtual 
+machines. Spring.
+
+3 
+CAP 4314 ECS-CS 3(3,0) Social Network Analysis: PR: CNT 3004 and 
+COP 3330.  COP3503 for CS major students. Introduce the concept of social 
+network.  Network structure and measures. Network visualization.  Tie strength and 
+propagation in networks. Methods for social network analysis (SNA). Public sector 
+applications of SNA. Business applications of SNA. Fall.
+
+3 
+CAP 4453 ECS-CS 3(3,0) Robot Vision:  
+PR: COP 3503C and MAC 2312 each with a grade of “C” (2.0) or better or C.I. 
+Perspective and orthographic projections; the processing of edges, regions, 
+motion, shading, texture, object detection, recognition, and machine learning.  Fall 
+,Spring.  
+ 
+3
+CAP 4611 ECS-CS 3(3,0) Algorithms for Machine Learning:  
+PR: COP 3502C and STA 2023 each with a grade of C (2.0) or better. An overview 
+of the most commonly used algorithms for supervised, unsupervised, and 
+reinforcement learning. Introduction to experimental design, evaluation metrics, 
+and applications of machine learning. Fall, Spring. 
+ 
+3
+CAP 4630 ECS-CS 3(3,0) Artificial Intelligence:  
+PR: COP 3503C with a grade of “C” (2.0) or better and COT 3960. Current 
+methods in Al: knowledge-based systems, representation, inference, planning, 
+natural language. Programming in Lisp or Prolog required. Fall. 
+ 
+3
+CAP 4720 ECS-CS 3(3,0) Computer Graphics:  
+PR: COP 3503C and MAC 1114C each with a grade of “C” (2.0) or better, and 
+COT 3960. Math for computer graphics, visibility and shading, graphics and data 
+structure, curves and surfaces, commodity graphics hardware, and graphics API. 
+Occasional. 
+
+3
+CAP 5415 ECS-CS 3(3,0) Computer Vision:  
+PR: COP 3503C, MAC 2312 and COT 3960. Image formation, binary vision, region 
+growing and edge detection, shape representation, dynamic scene analysis, 
+texture, stereo and range images, and knowledge representation. Fall. 
+ 
+3
+CAP 5510 ECS-CS 3(3,0) Bioinformatics:  
+PR: Background in programing language or molecular biology. This course 
+introduces problems, concepts, algorithms, and applications in Bioinformatics. It 
+covers essential topics such as sequence alignment and prediction of gene and 
+protein structure. Occasional. 
+ 
+3
+CAP 5512 ECS-CS 3(3,0) Evolutionary Computation:  
+PR: CAP 4630 or COP 3503C or C.I. This course covers the field of evolutionary  
+computation, focusing on the theory and application of genetic algorithms. Spring. 
+ 
+3
+CAP 5610 ECS-CS 3(3,0) Machine Learning:  
+PR: CAP 4630 or C.I. Origin/evaluation of machine intelligence; machine learning 
+concepts and their applications in problem solving, planning and “expert systems” 
+symbolic role of human and computers. Occasional. 
+ 
+3
+CAP 5636 ECS-CS 3(3,0) Advanced Artificial Intelligence:  
+PR: CAP 4630. Al theory of knowledge representation, “expert systems”, memory 
+organization, problem solving, learning, planning, vision, and natural language. 
+Fall.  
+ 
+3
+CAP 5725 ECS-CS 3(3,0) Computer Graphics I:  
+Architecture of graphics processors; display hardware; principles of programming 
+and display software; problems and applications of graphic systems. Spring.  
+ 
+3
+CDA 3103C ECS-CS 3(3,1) Computer Logic and Organization:  
+PR: COP 3223C with a grade of “C” (2.0) or better; CR: COT 3100C or MHF 3302 
+or MAD 2104. Logic design, computer arithmetic, Instruction Set Architecture 
+(MIPS, SPIM simulator), performance, data path, control unit, memory hierarchy, 
+I/O interface. Fall, Spring.  
+ 
+3
+CDA 5106 ECS-CS 3(3,0) Advanced Computer Architecture:  
+PR: EEL 4768C. Modern processor design, instruction-level parallelism, thread-
+level parallelism, data-level parallelism, memory hierarchy, and I/O. Fall, Spring.  
+ 
+3
+CDA 5110 ECS-CS 3(3,0) Parallel Architecture and Algorithms:  
+PR: COT 4210, CDA 5106. General-purpose vs. special-purpose parallel 
+computers; arrays, message-passing; shared-memory; taxonomy; parallelization 
+techniques; communication synchronization and granularity; parallel data 
+structures; automatic program restructuring.  Occasional.  
+ 
+3
+CEN 5016 ECS-CS 3(3,0) Software Engineering:  
+PR: COP 4331C. Application of formal software processes, engineering methods, 
+and documentation standards to the development of large scale software systems. 
+A team project is required. Spring.  
+ 
+2
+CGS 2545C ECS-CS 3(2,1) Database Concepts:  
+PR: COP 2500C or high level programming course (C, Java, C#, C++) with a grade 
+of “C” (2.0) or better. Entity-relation model, relational database managements 
+systems, normal forms, performance or databases, report generation. Fall, Spring.  
+ 
+4
+CGS 3175 ECS-CS 3(3,0) Internet Applications:  
+PR: COP 2500C or high level programming course (C, Java, C#, C++) with a grade 
+of “C” (2.0) or better. HTML coding, using images, sound and animation, advanced 
+text formatting, forms and CGS scripts, introduction to JavaScript. Fall, Spring.  
+ 
+2
+CGS 3269 ECS-CS 3(3,0) Computer Architecture Concepts:   
+PR: COP 2500C or high level programming course (C, Java, C#, C++) with a grade 
+of “C” (2.0) or better. CPU organization, current computer architectures, network 
+file servers. Fall, Spring.  
+ 
+2
+CGS 3763 ECS-CS 3(3,0) Operating System Concepts:  
+PR: COP 2500C or high level programming course (C, Java, C#, C++) with a grade 
+of “C” (2.0) or better. System calls, concept of processes, CPU scheduling, security 
+issues, client server paradigms, and computer supported workgroups. Occasional.  
+ 
+2 
+CIS 3003 ECS-CS 3(3,0) Fundamentals of Information Technology:  
+PR: CGS 2545C and COP 3223C each with a grade of “C” (2.0) or better. 
+Pervasive themes in IT. Organizational issues. History of IT. IT and its related and 
+informing disciplines. Application domains. Applications of math and statistics to IT. 
+Fall.  
+ 
+6
+CIS 3360 ECS-CS 3(3,0) Security in Computing:  
+PR: COP 3223C or EGN 3211 with a grade of “C” (2.0) or better. Security theory. 
+Legal and human factors, Malware, Intrusion patterns and tools, Windows, Unix, 
+TCP/IP, and applications vulnerabilities. Detection. Policies and enforcement. 
+Protection and assurance. Occasional.  
+ 
+3
+CIS 3362 ECS-CS 3(3,0) Cryptography and Information Security:   
+PR: COP 3223C or EGN 3211, and MAC 1114C each with a grade of “C” (2.0) or 
+better. Encryption algorithms and ciphers. Public and private keys. Key 
+infrastructures. Authentication, confidentiality, integrity, and nonrepudiation. Digital 
+signatures and certificates. Hash and digest algorithms. Standards. Occasional.  
+This is a CS Elective for catalog year 2017-2018 or later. 
+
+2
+CIS 3921 ECS-CS 1(1,0) Careers in IT:  
+PR: COP 3223C and IT major. An overview of the IT field, job opportunities and 
+careers in information technology, detailed information about some jobs as well as 
+a broad survey.   Fall, Spring.  
+ 
+2
+CIS 3990 ECS-CS 0(0,0) IT Career and Academic Advising I:  
+PR: PHY 2053C and IT major. Mandatory meeting with students and their faculty 
+advisor for career/academic advising. Fall, Spring.  
+ 
+5
+CIS 4004 ECS-CS 3(3,0) Web-Based Information Technology:  
+PR: CNT 3004 and COP 3330 each with grades of “C” (2.0) or better. Digital 
+libraries. Media formats. Compression. Streaming Media. Mobile internet and 
+WML. Emerging technologies. Capacity planning for web services. Fall, Spring.  
+ 
+3
+CIS 4203C ECS-CS 3(2,2)  Digital Forensics:  
+PR: (COP 4600 or CGS 3763) and (CIS 3360 or CIS 3362) or C.I. Operating 
+system forensics, digital media forensics, networking forensics, various digital 
+devices forensics. User activity profiling and digital storage recovery. Fall 
+ 
+3
+CIS 4361 ECS-CS 3(3,0) Secure Operating Systems and Administration:  
+PR: CIS 3360 with a grade of “C” (2.0) or better; CR: COP 4600 or CGS 3763 or 
+EEL 4882. Understanding of secure operating systems requirements, design 
+principles and theories, protection methods, access control, authentication, 
+vulnerability, analysis and case studies. Occasional.  
+ 
+5
+CIS 4524 ECS-CS 3(3,0) Managing IT Integration:  
+PR: CIS 3003 with a grade of “C” (2.0) or better. Requirements, acquisition and 
+sourcing. Integration. Project management. Testing and QA. Organizational 
+context. Architecture. Spring.  
+ 
+3
+CIS 4615 ECS-CS 3(3,0) Secure Software Development and Assurance:  
+PR: (COP 4600 or CGS 3763) and (CIS 3360 or CIS 3362) or C.I. Thread 
+modeling, Secure code life-cycle, Buffer overflows, race conditions and format 
+string problems, Inputs and clients, File system, Cryptography applications, 
+UMLsec, Java security and Reverse engineering. Occasional.  
+ 
+3
+CIS 4940C ECS-CS 3(1,3) Topics in Cybersecurity: 
+PR: CIS 3360 or C.I. A directed and supervised investigation of selected problems, 
+issues, and trends in cybersecurity, with emphasis on laboratory simulations of 
+system penetration methods and network defense strategies. Spring. 
+ 
+2
+CIS 4991 ECS-CS 0(0,0) IT Career and Academic Advising II:  
+PR: CIS 3990 and department consent. Mandatory meeting with students and their 
+faculty advisor for career/academic advising. Fall, Spring.  
+
+2
+CNT 3004 ECS-CS 3(3,0) Computer Network Concepts: PR: PHY 2053C with a 
+grade of “C” (2.0) or better and, CR: CIS 3990.  Network media, protocol, current 
+and evolving standards for local, metropolitan, wide area and wireless networks.  
+Fall,Spring. 
+ 
+3 
+CNT 4403 ECS-CS 3(3,0)  
+Network Security and Privacy: PR: (CNT 3004 or EEL 4781 or CNT 4704) and 
+(CIS 3360 or CIS 3362) all with a grade of “C” (2.0) or better or C.I. Fundamentals 
+of network security, protocols, secure applications, network intrusion detection, 
+security policy, firewalls, and privacy issues. Occasional.  
+ 
+3
+CNT 4425C ECS-CS 3(3,1) Cloud Computing Management:  
+PR: CGS 3763 or COP 4600 with a grade of “C” (2.0) or better. Administration of 
+cloud computing. Topics include virtualization, container, resource management,  
+programming models, application models, and system administration. Real-world 
+Cloud Computing systems and tools, such as OpenStack, 
+Amazon/Microsoft/Google public cloud systems, as well as Hadoop and Spark. 
+Spring.  
+ 
+5
+CNT 4603 ECS-CS 3(3,0) System Administration and Maintenance:   
+PR: CGS 3763 with a grade of “C” (2.0) or better. An examination of operating 
+systems and applications installation, configuration, and maintenance, including 
+client-server services, content management and deployment, server administration 
+and management, and user/group management. Fall, Spring.  
+ 
+5
+CNT 4703C ECS-CS 3(1,2) Design and Implementation of Computer 
+Communication Networks:  
+PR: CNT 3004 and COP 3502C and (MAD 2104 or COT 3100C) all with a grade of 
+“C” (2.0) or better. Data communication networking technologies (TCP/IP, Ethernet, 
+Gigabit Ethernet, ATM, Frame Relay), products (routers, switches, adapters, 
+cabling). Base design and detailed configuration including hands-on exercises. 
+Fall, Spring. M&S fee $16.00  
+ 
+3
+CNT 4704 ECS-CS 3(3,0) Analysis of Computer Communication Networks:  
+PR: (COT 3100C or MAD 2104) and STA 2023 each with grades of “C” (2.0) or 
+better. Network design using layering. Introduces cabling, topology, architecture, 
+hardware and software. Includes performance and control issues such as 
+congestion control, error control, contention resolution. Occasional.  
+ 
+5
+CNT 4714 ECS-CS 3(3,0) Enterprise Computing:  
+PR: CGS 3269, MAD 2104, COP 3330 and COP 3502C all with a grade of “C” (2.0) 
+or better. Client-server architecture. Server-side scripting: Servlets, JSP, PHP. 
+JDBC and MySQL database; connectivity. Multi-threaded Java applications. J2EE 
+development. SSL., Event-driven programming. Fall, Spring.  
+
+3
+CNT 5008 ECS-CS 3(3,0) Computer Communication Networks Architecture: 
+PR: EEL 4768C. Computer networks, layers, protocols and interfaces, local area 
+networks networking. Fall.
+
+3
+CNT 5805 ECS-CS 3(3,0) Network Science:  
+PR: Undergraduate degree in CS, EE, or CpE. The emerging science of complex 
+networks and their applications. Focus will be on algorithms, mathematical 
+theories, and computational methods that analyze complex networks and predict 
+their behavior.   Even Fall.  
+ 
+3
+COP 3223C ECS-CS 3(3,1) Introduction to Programming with C:  
+Programming in C including arrays, pointer manipulation and use of standard C 
+math and IO libraries. Fall, Spring.   
+ 
+3
+COP 3330 ECS-CS 3(3,0) Object Oriented Programming:  
+PR: COP 3223C or EGN 3211 with a grade of “C” (2.0) or better. Object oriented 
+programming concepts (classes, objects, methods, encapsulating, inheritance, 
+interfaces) and the expression of these concepts in the programming languages 
+such as JAVA. Fall, Spring.  
+ 
+7
+COP 3402 ECS-CS 3(3,0) Systems Software:  
+PR: CDA 3103C and COP 3502C each with a grade of “C” (2.0) or better. Design 
+and development of assemblers, linkers, loaders, and compilers. Study memory 
+hierarchy, program performance, and system level I/O. Fall, Spring.  
+ 
+6
+COP 3502C ECS-CS 3(3,1) Computer Science I:  
+PR: (COP 3223C or EGN 3211) and MAC 1105C all with a grade of “C” (2.0) or 
+better. Problem solving techniques, order analysis and notation, abstract data 
+types, and recursion. Fall, Spring.  
+ 
+7
+COP 3503C ECS-CS 3(3,1) Computer Science II:  
+PR: COP 3502C and COP 3330 and (MAD 2104 or COT 3100C) all with a grade of 
+“C” (2.0) or better. Algorithm design and analysis for tree, list, set, and graph data 
+models; algorithmic strategies and applications, and algorithmic complexity 
+analysis; sorting and searching; practical applications. Fall, Spring.  
+ 
+3
+COP 4020 ECS-CS 3(3,0) Programming Languages I:  
+PR: COP 3503C with a grade of “C” or better and COT 3960. Paradigms and 
+fundamental concepts of programming languages are presented, including: scope, 
+binding, abstraction, encapsulation, typing etc. Design paradigms object-oriented, 
+functional and logic programming are presented. Fall, Spring. This is a CS Elective for 
+catalog year 2017-2018 or later. (This is a CS required course for catalog year 2016 and prior). 
+
+8
+COP4283 ECS-CS 3(3,0)  Data Science Programming: PR: COP 3223C CR: 
+Programming for data processing and analytics, including languages and platforms 
+used in science such as SAS, R, Julia, and Python. Intensive coding projects. 
+Spring.
+
+7
+COP 4331C ECS-CS 3(3,1) Processes for Object-Oriented Software 
+Development:   
+PR: COP 3503C with a grade of “C” (2.0) or better and COT 3960 (CS majors). 
+Concepts, principles, processes and methods for developing large software 
+systems featuring a team project using object-oriented design in UML and 
+implementation in C++. Fall, Spring.  
+ 
+3
+COP 4516C ECS-CS 3(1,3) Problem Solving Techniques and Team Dynamics: 
+PR: COP 3503C with a grade of “C” (2.0) or better. Design and implement 
+solutions to problems requiring the applications of the different algorithms. Team 
+project format. Occasional.  
+ 
+3
+COP 4520 ECS-CS 3(3,0) Concepts of Parallel and Distributed Processing:  
+PR: COP 3402 and COP 3503C each with a grade of “C” (2.0) or better and COT 
+3960. Parallel and distributed paradigms, architectures and algorithms, and the 
+analytical tools, environments and languages needed to support these paradigms. 
+Occasional.  
+ 
+3
+COP 4600 ECS-CS 3(3,0) Operating Systems:  
+PR: COP 3503C and COP 3402 (CS majors) each with a grade of “C” (2.0) or 
+better and COT 3960 (CS majors). Function and organization of operating systems, 
+process management, virtual memory, I/O management, and file management. 
+Fall, Spring. This is a CS Elective for catalog year 2017-2018 or later. (This is a 
+CS required course for catalog year 2016 and prior). 
+ 
+3
+COP 4710 ECS-CS 3(3,0) Database Systems:  
+PR: COP 3503C with a grade of “C” (2.0) or better. Storage and access Structures, 
+database models and languages, related database design, and implementation 
+techniques for database management systems. Fall, Spring.  
+ 
+2
+COP 4910 ECS-CS 3(3,0) Frontiers in Information Technology:  
+PR: CNT 4603 with a grade of “C” (2.0) or better; CR: CNT 4703C and CIS 4991. 
+Research into leading edge information technologies that have a high likelihood of 
+affecting the work place in the two to five year time frame. Fall, Spring.  
+ 
+1 
+COP 4934 ECS-CS 3(3,0) Senior Design I:  
+PR: COP 3402 and COP 3503C each with a grade of “C” (2.0) or better and 
+consent of Department of EECS; CR: COP 4331C. Students work in teams to 
+demonstrate their knowledge of computer science and apply it to realistic and 
+meaningful problems. Fall, Spring.  
+Computer Science Department CS and IT Required and Electives List 
+
+1
+COP 4935 ECS-CS 3(3,0) Senior Design II:  
+PR: COP 4934 with a grade of “C” (2.0) or better. Students work in teams to 
+demonstrate their knowledge of computer science and apply it to realistic and 
+meaningful problems. Fall, Spring.  
+ 
+3
+COP 5021 ECS-CS 3(3,0) Program Analysis:   
+PR: COP 4020 and COT 4210 or C.I. Static analysis of programs including 
+theoretical and practical limitations, data flow analysis, abstract interpretation, and 
+type and effect systems. Tools to automate program analysis. Even Spring.  
+ 
+3
+COP 5537 ECS-CS 3(3,0) Network Optimization:  
+PR: Graduate standing or C.I. Techniques for modeling complex, interconnected 
+systems as networks; optimization with graph theory; algorithms, data structures, 
+and computational complexity; statistical methods for studying large, evolving 
+networks. Fall.   
+ 
+3
+COP 5611 ECS-CS 3(3,0) Operating Systems Design Principles:  
+PR: COP 4600. Structure and functions of operating systems, process 
+communication techniques, high-level concurrent programming, virtual memory  
+systems, elementary queuing theory, security, distributed systems, case studies. 
+Spring.  
+ 
+3
+COP 5621 ECS-CS 3(3,0) Compiler Construction:  
+PR: COP4020 and COT 4210. Techniques in the design and implementation of 
+compilers. Optimization, code generation, error recovery, attributed grammars. A 
+project is required. Odd Fall.  
+
+3
+COP 5711 ECS-CS 3(3,0) Parallel and Distributed Database Systems:  
+PR: COP 4710. Storage manager, implementation techniques for parallel DBMSs, 
+distributed DBMS architectures, distributed database design, query processing, 
+multidatabase systems.  Occasional.   
+ 
+1
+COT 3100C ECS-CS 3(3,1) Introduction to Discrete Structures:  
+PR: MAC 1105C and MAC 1114C each with a grade of “C” (2.0) or better. Logic, 
+sets, functions, relations, combinatorics, graphics, Boolean algebras, finite-state 
+machines, Turing machines, unsolvability, computational complexity. Fall, Spring.  
+ 
+1
+COT 3960 ECS-CS 0(1,0) Passed CS Foundation Exam:  
+PR: COP 3502C with a grade of “C” (2.0) or better. Foundation examination for 
+computer science majors. Required before taking advanced core courses in 
+Computer Science and upper-division 4000 and 5000 level CS electives. Graded 
+S/U. Fall, Spring. 
+ 
+7
+COT 4210 ECS-CS 3(3,0) Discrete Structures II:  
+PR: COP 3503C with a grade of “C” (2.0) or better and COT 3960. Computation 
+Theory. A study of the properties of grammars and automata as formal 
+specifications for algorithms and families of languages. Fall, Spring.  
+ 
+3
+COT 4400 ECS-CS 3(3,0) Tools for Algorithm Analysis:  
+PR: COT 3960 and COP 3503C. Tools from discrete and continuous mathematics 
+for analyzing complexity of algorithms. Order notation use and manipulation. 
+Occasional.  
+ 
+3
+COT 4500 ECS-CS 3(3,0) Numerical Calculus:  
+PR: MAC 2312 and COP 3223C each with a grade of “C” (2.0) or better. Numerical 
+methods for finding roots of nonlinear equations, solutions of systems of linear 
+equations, and ordinary differential equations. Occasional.    
+ 
+1
+COT 4810 ECS-CS 3(3,0) Topics in Computer Science:  
+PR: COP 3402 and COP 3503C each with a grade of “C” (2.0) or better and COT 
+3960. A range of topics from the field of Computer science; application of oral and 
+written communication skills; social, ethical and moral issues of computing. Fall, 
+Spring.  
+This is a required course for catalog year 2012 and prior. 
+ 
+3
+COT 5405 ECS-CS 3(3,0) Design and Analysis of Algorithms:  
+PR: COT 4210. Classification of algorithms, e.g., recursive, divide-and-conquer, 
+greedy, etc. Data Structures and algorithm design and performance. Time and 
+space complexity analysis. Fall, Spring. 
+ 
+9
+EEE 4346C ECS-ECE 3(2,3) Hardware Security and Trusted Circuit Design:  
+PR: EEL 3801C with a grade of “C” (2.0) or better. Design, analysis and synthesis 
+of sequential logic circuits and systems. Data path and controller design  
+using a hardware descriptive language. Case studies on hardware security. Spring.  
+This is a CS Elective for catalog year 2017-2018 or later. 
+ 
+9
+EEL 4660 ECS-ECE 3(3,0) Robotic Systems:  
+PR: EGN 4060C or EEL 4742C or COP 3503C. Team based development of a 
+robotic system incorporating concepts such as sensing, computer vision,  
+machine learning, localization, mapping, manipulation and  
+locomotion. Spring.   
+ 
+9
+EEL 4768 ECS-ECE 3(3,0) Computer Architecture:  
+PR: EEL 3801C or CDA3103C with a grade of “C” (2.0) or better. Computer 
+systems performance and evaluation, processor datapath and control, 
+microprogrammed architectures, instruction and arithmetic pipelines, cache and 
+virtual memory, and RISC vs. CISC. Fall,Spring. This is a CS Elective for catalog year 
+2017-2018 or later. (This is a CS required course for catalog year 2016 and prior). 
+
+9
+EEL 4781  ECS-ECE 3(3,0) Computer Communication Networks:  
+PR: EEL 3801C with a grade of “C” (2.0) or better and STA 3032. Network models. 
+Media access protocols. Data link control. Routing and flow control. 
+Internetworking. Current architectures and protocols: OSI, ethernet, token, ring,  
+FDDI, HSLC, X.25, etc.  Fall, Spring.  
+This is a CS Elective for catalog year 2017-2018 or later. 
+ 
+9
+EEL 5780 ECS-ECE 3(3,0)  Wireless Networks:  
+PR: EEL 4781 or C.I. The wireless networking topics include: cellular networks,  
+multiple access protocols, channel assignment and resource allocation, mobility 
+and location management, handoffs, routing, authentication, call admission control  
+and QoS provisioning, network layer issues, wireless data networking (WAP, GSM, 
+GPRS, CDMA, WCDMA.). Even Spring.  
+This is a CS Elective for catalog year 2017-2018 or later. 
+ 
+9
+EEL 5820 ECS-ECE 3(3,0) Image Processing:  
+PR: MAP 2302, EEL 4750 or C.I. Two-dimensional signal processing techniques;  
+pictorial image representation; spatial filtering; image enhancement and encoding; 
+segmentation and feature extraction; introduction to image understanding  
+techniques. Odd Spring.  
+This is a CS Elective for catalog year 2017-2018 or later. 
+ 
+9
+EGN 4060C ECS-ECE 3(2,3) Introduction to Robotics:  
+PR: COP 3223C or EGN 3211; and EEL 3657or EEL 4742C or COP 3503C or 
+EGN 3321 or EML 3217. Theory and application of robotics topics including; 
+architecture, path planning, sensing and manipulation. Spring.
