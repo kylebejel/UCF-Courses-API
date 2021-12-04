@@ -8,7 +8,7 @@ ENV = 'dev'
 
 if ENV == 'dev':
     app.debug = True
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:Kb.0169892@localhost/courses_api'
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'POSTGRES URI'
 else:
     app.debug = False
     app.config['SQLALCHEMY_DATABASE_URI'] = ''
